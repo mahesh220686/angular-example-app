@@ -8,9 +8,7 @@
     <br><br>
     <a href="https://angular-example-app.netlify.app/" target="_blank"><strong>🔥 Live Demo</strong></a>
     <br><br>
-    <img src="https://res.cloudinary.com/ismaestro/image/upload/angularexampleapp/assets/images/ash-pikachu.png" alt="Demo example" width="150"/>
-  </p>
-</div>
+   
 
 ---
 ########
