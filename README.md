@@ -19,6 +19,12 @@ hi how are you
 hnlnln n asafk
 sngl'd l la l aaA
 
+ f  e
+lf;l f;
+uname -a
+top
+diskspace
+ifconfig -a
 
 A'A;V'AA
 ,A;A'a,
